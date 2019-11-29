@@ -94,17 +94,17 @@
                                 </div>
                                 <span>PHP</span> <span class="pull-right">90%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="90" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
                                 <span>HTML</span> <span class="pull-right">80%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="80" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
                                 <span>JAVASCRIPT</span> <span class="pull-right">50%</span>
                                 <div class="progress">
-                                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="50" aria-valuemin="0"
+                                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
                                          aria-valuemax="100"></div>
                                 </div>
                             </div>
