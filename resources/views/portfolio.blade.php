@@ -74,7 +74,7 @@
                             <div class="row">
                                 <div class="col-sm-6 col-md-5">
                                     <div class="about-img">
-                                        <img src="DevFolio/img/AMIR.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                                        <img src="../../DevFolio/img/AMIR.JPG" class="img-fluid rounded b-shadow-a" alt="">
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-md-7">
